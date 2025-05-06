@@ -1,4 +1,5 @@
 {
+  "type": "module",
   "devDependencies": {
     "@faker-js/faker": "^9.7.0",
     "@wdio/appium-service": "^9.12.7",
